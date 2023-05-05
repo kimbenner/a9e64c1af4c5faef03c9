@@ -1,0 +1,248 @@
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/discordui")()
+
+local win = DiscordLib:Window("Skeleton v2.0.1")
+
+if game.PlaceId == 8396586868 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local AOnePiece = server:Channel("A 0ne Piece Game")
+    AOnePiece:Button("Uzu",function()loadstring(game:HttpGet("https://rawscripts.net/raw/loader_1038"))();end);
+end
+
+if game.PlaceId == 5130598377 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local AUniversal = server:Channel("A Universal Time")
+    AUniversal:Button("TweedLeak", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/TweedLeak/Scripts/main/A-Universal-Time"))();end);
+end
+
+if game.PlaceId == 6872265039 or game.PlaceId == 4497907287 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local BedWars = server:Channel("BedWars")
+    BedWars:Button("Vape V4", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();end);
+end
+
+if game.PlaceId == 1537690962 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local BeeSwarm = server:Channel("Bee Swarm Simulator")
+    BeeSwarm:Button("Cloud Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripters/CloudHub/main/hub"))();end);
+    BeeSwarm:Button("KocmocRemastered", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))();end);
+    BeeSwarm:Button("Macrov2", function()loadstring(game:HttpGet("https://www.macrov2-script.xyz/macrov2.lua"))();end);
+    BeeSwarm:Button("kometa", function()loadstring(game:HttpGet('https://s.kometa.ga/kometa.lua'))();end);
+end
+
+if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local BloxFruits = server:Channel("BloxFruits")
+    BloxFruits:Button("CFrameHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/CFrame3310/CFrameHub/main/BloxFruit.lua"))();end);
+    BloxFruits:Button("HOHO HUB", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))();end);
+    BloxFruits:Button("RIPPER HUB", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/hajibeza/RIPPER-HUB/main/RIPPERHUBV2.lua"))();end);
+end
+
+if game.PlaceId == 537413528 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local BuildABoat = server:Channel("Build A Boat For Treasure")
+    BuildABoat:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+end
+
+if game.PlaceId == 2788229376 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local DaHood = server:Channel("DaHood")
+    DaHood:Button("Enclosed Gui", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Haihellos/skidded-enclosed-gui/main/message.txt"))();end);
+    DaHood:Button("Faded", function()_G.Toggles="V";loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic",true))();end);
+end
+
+if game.PlaceId == 6516141723 or game.PlaceId == 6839171747 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local Doors = server:Channel("Doors")
+    Doors:Button("Chiba Hub", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHubcomeback/main/Chiba-Doors.txt'))();end);
+    Doors:Button("Doors GUI", function()loadstring(game:HttpGet(('https://pastebin.com/raw/9QPGnLx6'),true))();end);
+    Doors:Button("POOPDOORSS", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua'))();end);
+    Doors:Button("Vynixius", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))();end);
+end
+
+if game.PlaceId == 6961824067 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local FlingThings = server:Channel("Fling Things and People")
+    FlingThings:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+end
+
+if game.PlaceId == 606849621 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local Jailbreak = server:Channel("Jailbreak")
+    Jailbreak:Button("wmain", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/weiny-ez/w-main/main/loader.lua'))();end);
+end
+
+if game.PlaceId == 4520749081 or game.PlaceId == 6381829480 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local KingLegacy = server:Channel("KingLegacy")
+    KingLegacy:Button("Hyper Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua"))();end);
+    KingLegacy:Button("MukurXQuartyz", function()loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")();end);
+end
+
+if game.PlaceId == 3101667897 or game.PlaceId == 3232996272 or game.PlaceId == 3276265788 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local LegendsOfSpeed = server:Channel("Legends Of Speed")
+    LegendsOfSpeed:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+    LegendsOfSpeed:Button("Extreme Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ExtremeAntonis/loader/main/loader.lua"))();end);
+    LegendsOfSpeed:Button("F2B Hub", function()loadstring(game:HttpGet("https://rebrand.ly/F2B-HUB"))();end);
+    LegendsOfSpeed:Button("MrHakame", function()loadstring(game:HttpGet("https://pastebin.com/raw/1iMHrZ50"))();end);
+    LegendsOfSpeed:Button("TurboHub", function()loadstring(game:HttpGet"https://gitlab.com/turbohubz/loader.xyz/loader/-/raw/main/TurboHub-Loader")();end);
+    LegendsOfSpeed:Button("VGHub", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))();end);
+    LegendsOfSpeed:Button("Vynixius", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"))();end);
+end
+
+if game.PlaceId == 11599913094 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local NukeSim = server:Channel("Nuke Simulator")
+    NukeSim:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+end
+
+if game.PlaceId == 6284583030 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local PetSimX = server:Channel("Pet Simulator X")
+    PetSimX:Button("BLACKTRAPHUB", function()loadstring(game:HttpGet("https://pastebin.com/raw/BdvUGb2q"))();end);
+    PetSimX:Button("MilkyHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Flxry/Main/MilkyHub/Pet%20Simulator%20X"))();end);
+    PetSimX:Button("Petsi-X", function()loadstring(game:GetObjects("rbxassetid://8194485654")[1].Source)("Petsi-X");end);
+    PetSimX:Button("cipex", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/cipex-rbx/cipex/main/loader.lua"))();end);
+    PetSimX:Button("jmes", function()loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes.lua"))();end);
+    PetSimX:Button("noname", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/GoodScripters/PSXscript/main/script"))();end);
+end
+
+if game.PlaceId == 7009799230 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local PressureWashSim = server:Channel("Pressure Wash Simulator")
+    PressureWashSim:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+end
+
+if game.PlaceId == 155615604 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local PrisonLife = server:Channel("PrisonLife")
+    PrisonLife:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+    PrisonLife:Button("Admin", function()loadstring(game:HttpGet("https://pastebin.com/raw/VHnxgyBQ"))();end);
+    PrisonLife:Button("PRISONWARE", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt"))();end);
+end
+
+if game.PlaceId == 5956785391 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local ProjectSlayers = server:Channel("Project Slayers")
+    ProjectSlayers:Button("Lazy Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/LioK251/RbScripts/main/lazyhub.lua"))();end);
+    ProjectSlayers:Button("LeadMarker", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/LeadMarker/Scripts/main/ProjectSlayer.lua"))();end);
+    ProjectSlayers:Button("Moonrise", function()loadstring(game:HttpGet(('https://moonrise.gay/Whitelist.lua'),true))();end);
+end
+
+if game.PlaceId == 7991339063 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local RainbowFriends = server:Channel("Rainbow Friends")
+    RainbowFriends:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+end
+
+if game.PlaceId == 8540346411 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local RebirthChampionsX = server:Channel("Rebirth Champions X")
+    RebirthChampionsX:Button("Alpha Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphascript"))();end);
+end
+
+if game.PlaceId == 914010731 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local RoGhoul = server:Channel("RoGhoul")
+    RoGhoul:Button("z4gs master", function()loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/z4gs/scripts/master/Ro-Ghoul%20Auto%20Farm.lua")))();end);
+end
+
+if game.PlaceId == 2809202155 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local YBA = server:Channel("YBA")
+    YBA:Button("zakater5", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua"))();end);
+end
+
+if game.PlaceId == 11109756592 then
+    local server = win:Server("Main", "rbxassetid://13348154604")
+    local credit = server:Channel("Credit")
+    credit:Button("discord.gg/ZVCuXWZKtB",function()end);
+    local main = server:Channel("Main")
+    main:Button("Anti AFK",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/antiafk",true))();end);main:Seperator();main:Button("Infinite Yield",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();end);main:Seperator();main:Button("ESP",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua"))();end);main:Seperator();main:Button("Aimbot",function()loadstring(game:HttpGet("https://pastebin.com/raw/sm65cw6D"))();end);main:Seperator();main:Button("Keyboard",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",true))();end);main:Seperator();main:Button("Infjump",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/infjump"))();end);main:Seperator();main:Button("DexV3",function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",true))();end);main:Seperator();main:Button("TurtleSpy",function()loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU"))();end);
+    local YouTubeSimZ = server:Channel("YouTube Simulator Z")
+    YouTubeSimZ:Button("DEVIL Hub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/DEVIL-Hub-Main", true))();end);
+end
