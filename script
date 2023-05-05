@@ -1,6 +1,6 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/kimbenner/script/main/alphaHub/discordui")()
 
-local win = DiscordLib:Window("Skeleton v2.0.1")
+
 
 if game.PlaceId == 8396586868 then
     local server = win:Server("Main", "rbxassetid://13348154604")
